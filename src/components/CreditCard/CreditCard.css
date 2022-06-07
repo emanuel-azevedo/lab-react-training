@@ -1,0 +1,45 @@
+.creditCardBox {
+    margin: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.creditCard {
+    padding: 20px;
+    width: 350px;
+    /* height: 196px; */
+}
+
+.logoBandeira {
+    display: flex;
+    justify-content: end;
+
+}
+
+.Bandeira {
+    height: 20px;
+    width: auto;    
+}
+
+.numberCard {
+    font-size:larger;
+    display: flex;
+    justify-content: center;
+}
+.dataProfile {
+    font-size: smaller;
+    padding-right: 15px;
+    display: flex;
+    flex-direction: row;
+    margin: none; 
+}
+
+.dataProfile div p {
+    margin-right: 20px;
+}
+
+/* p {
+    margin-top: 0;
+    margin-bottom: 0;
+} */

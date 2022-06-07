@@ -1,0 +1,20 @@
+.box{
+    border: 1px solid black;
+    margin: 10px 20px;
+    padding: 5px;
+}
+
+.idCardBox {
+    display: flex;    
+}
+
+.imgCard {
+    height: 100%;
+    width: auto;
+}
+
+.profileData {
+    font-size: 500;
+    
+}
+
